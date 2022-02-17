@@ -57,3 +57,9 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(54, 10, 54);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+table { border: solid 3px rgb(55, 13, 94);}
+th {border: solid 1px ;text-align: center;padding-left: 50px;margin: 100px 13em 15pt 10%;background-color:#55e4ad}
+td{border: solid 1px ;text-align: center;padding-left: 50px;margin: 100px 13em 15pt 10%;}
+tr:nth-child(even) {background-color: rgb(49, 203, 214);}
+tr:nth-child(odd) {background-color: #a9f1eb;}
